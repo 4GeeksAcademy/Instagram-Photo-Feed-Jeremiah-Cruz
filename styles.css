@@ -1,0 +1,21 @@
+.image-wrapper {
+  padding: 2px;
+}
+
+.post-grid .col-4,
+.post-grid .col-12 {
+  padding: 2px;
+}
+
+.preview-image {
+  width: 100%;
+  display: block;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+
+.preview-image:hover {
+  transform: scale(1.02);
+}
+
+
